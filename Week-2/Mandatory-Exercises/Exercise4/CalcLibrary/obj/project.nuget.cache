@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/TcgOpvb8y4=",
+  "success": true,
+  "projectFilePath": "G:\\Cognizant\\Shreyandasgit-Digital-Nurture-4.0-DotNet-FSE-Week-wise-Solutions-1\\Week-2\\Mandatory-Exercises\\Exercise4\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shreyan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shreyan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
